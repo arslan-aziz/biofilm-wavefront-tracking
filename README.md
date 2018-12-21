@@ -1,5 +1,6 @@
 # biofilm-wavefront-tracking
 
+
 Background: 
 Images of a bacterial biofilm were acquired in the Gahlmann lab using a phase contrast microscope
 over a period of a day. Image timepoints were acquired every hour.
